@@ -25,7 +25,5 @@ My focus is on practical, hands-on defense (Blue Team) and network security fund
 I am prioritizing documentation and theoretical mastery while preparing for intensive hands-on labs. My immediate project pipeline focuses on bridging theory with practical application:
 
 * **Documentation in Progress:** Drafting detailed Incident Response Playbooks (e.g., Phishing and Unauthorized Access) to demonstrate procedural knowledge. *(See my **[Documents Repository]** coming soon.)*
-* **Targeted Hands-on Practice (Jan/Feb 2026):** Upon hardware upgrade, I will be immediately implementing:
-    * **SIEM Lab Setup:** Deploying Splunk Free/Community Edition for log ingestion and correlation.
-    * **Packet Analysis Projects:** Completing multiple documented threat analysis challenges using Wireshark and public pcap files.
+
       
